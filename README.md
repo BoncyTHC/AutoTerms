@@ -1,2 +1,20 @@
-# AutoTerms
-Hypixel skyblock auto terms | Hypixel skyblock auto terminals | skyblock terminal macro
+# Auto Terms
+_A QOL module for hypixel skyblock dungeons._ 
+
+## Features 
+- Auto completes terminals
+- Terminal invwalk
+- Terminal triggerbot
+- Terminal aura
+- Customizable delays
+
+## Installation 
+Download chatriggers (if not already installed) from [here](https://chattriggers.com/) 
+
+### Steps 
+1. Download the lastest version of the mod
+2. Move the zip file into your ChatTriggers modules directory: - Located at: `/.minecraft/config/ChatTriggers/modules/`
+3. Restart Minecraft or run `/ct load` in-game.
+
+## Usage
+_To open the GUI, the command is /autoterms!_ --- Enjoy!
